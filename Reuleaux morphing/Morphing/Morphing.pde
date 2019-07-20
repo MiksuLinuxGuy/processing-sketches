@@ -1,5 +1,3 @@
-import gifAnimation.*;
-
 int tri[][] = new int[3][2];
 int a = 200;
 float t = 0.075;
