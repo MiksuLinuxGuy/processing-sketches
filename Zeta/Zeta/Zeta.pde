@@ -1,6 +1,6 @@
 int infty = 1000;
 float[] limits = {-5, 5, -5, 5};
-PVector[] points = new PVector[100]; float step = 0.01;
+PVector[] points = new PVector[1000]; float step = 0.01;
 
 void setup(){
   size(640, 480);
