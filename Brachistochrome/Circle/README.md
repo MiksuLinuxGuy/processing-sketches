@@ -1,6 +1,6 @@
 # The Unit Circle in the Brachistochrone Metric
 
-![snapshot](https://github.com/MiksuLinuxGuy/processing-sketches/blob/master/Brachistochrone/Circle/circle.png)
+![snapshot](https://raw.githubusercontent.com/MiksuLinuxGuy/processing-sketches/master/Brachistochrome/Circle/circle.png)
 
 This program draws the unit circle in the brachistochrone metric, and it animates balls sliding down four barchistochrones.
 The brachistochrone metric is a function that tells, how long it takes for a ball to roll from one point to another along a [brachistochrone](https://en.wikipedia.org/wiki/Brachistochrone_curve).
